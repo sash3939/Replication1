@@ -43,6 +43,7 @@
 [my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/b4af030d-34f0-41d1-b553-fa2cd642da2a)
 
 
+[docker ps](https://github.com/sash3939/Replication1/assets/156709540/a7a5d27d-12a8-4539-9849-9ecbf99166bd)
 
 
 
