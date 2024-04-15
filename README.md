@@ -34,10 +34,10 @@
 
 ### Решение 2
 
+[docker-compose](https://github.com/sash3939/Replication1/assets/156709540/4d7e4961-c8ad-45fe-a249-ae636d89db86)
 [my.cnf slave](https://github.com/sash3939/Replication1/assets/156709540/0a2fa39c-38dd-4fd9-b475-f2f11b75cb33)
 [_my.cnf slave](https://github.com/sash3939/Replication1/assets/156709540/00d2cdc9-b19e-40fb-bdd0-9d4f39637c60)
 [slave.sql](https://github.com/sash3939/Replication1/assets/156709540/5f1777df-7ca8-4282-a156-677f7a9e0cf6)
-
 [master.sql](https://github.com/sash3939/Replication1/assets/156709540/f78fa4ad-5296-4ba0-9238-3ec1a5f6be59)
 [_my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/399dd5db-0405-4aaf-be0a-f16112d4136a)
 [my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/b4af030d-34f0-41d1-b553-fa2cd642da2a)
@@ -68,3 +68,18 @@
 Выполните конфигурацию master-master репликации. Произведите проверку.
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
+
+### Решение 3*
+
+[docker ps](https://github.com/sash3939/Replication1/assets/156709540/345263a0-718f-442e-b65a-cdc5626326a8)
+[docker-compose](https://github.com/sash3939/Replication1/assets/156709540/69368a24-8237-4168-b910-24b1d7f66267)
+[init_m1](https://github.com/sash3939/Replication1/assets/156709540/e3def70a-dd6e-4b3c-82c2-4ef3862420ba)
+[my.cnf master1](https://github.com/sash3939/Replication1/assets/156709540/b4f3a289-939f-41ca-8830-448781b6b7c4)
+[init_m2](https://github.com/sash3939/Replication1/assets/156709540/c1b61085-1941-4981-90cb-e9753c2cca8f)
+[my.cnf master2](https://github.com/sash3939/Replication1/assets/156709540/a757d746-3fb7-4d2f-a534-3eb2fc12cc13)
+
+[SELECT from tables](https://github.com/sash3939/Replication1/assets/156709540/e1355333-c562-41c6-97c5-d099e7270433)
+
+
+
+
