@@ -52,6 +52,9 @@
 
 [MASTER STATUS on Slave](https://github.com/sash3939/Replication1/assets/156709540/c9601111-3433-4738-8624-6ca960c0e0b2)
 
+[SLAVE STATUS on SLAVE](https://github.com/sash3939/Replication1/assets/156709540/8e64d4ae-adf7-4fec-a41b-3ca3691f6770)
+
+
 ---
 
 
