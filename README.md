@@ -32,7 +32,22 @@
 
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
+### Решение 2
+
+[my.cnf slave](https://github.com/sash3939/Replication1/assets/156709540/0a2fa39c-38dd-4fd9-b475-f2f11b75cb33)
+[_my.cnf slave](https://github.com/sash3939/Replication1/assets/156709540/00d2cdc9-b19e-40fb-bdd0-9d4f39637c60)
+[slave.sql](https://github.com/sash3939/Replication1/assets/156709540/5f1777df-7ca8-4282-a156-677f7a9e0cf6)
+
+[master.sql](https://github.com/sash3939/Replication1/assets/156709540/f78fa4ad-5296-4ba0-9238-3ec1a5f6be59)
+[_my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/399dd5db-0405-4aaf-be0a-f16112d4136a)
+[my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/b4af030d-34f0-41d1-b553-fa2cd642da2a)
+
+
+
+
+
 ---
+
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
