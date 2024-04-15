@@ -49,9 +49,7 @@
 [SELECT from tables](https://github.com/sash3939/Replication1/assets/156709540/cc652eb5-fecb-41d6-b70c-daef57a9817c)
 
 [MASTER STATUS](https://github.com/sash3939/Replication1/assets/156709540/c6f2ae2f-d5d1-4db2-a2e5-e9fbc27c45c0)
-
 [MASTER STATUS on Slave](https://github.com/sash3939/Replication1/assets/156709540/c9601111-3433-4738-8624-6ca960c0e0b2)
-
 [SLAVE STATUS on SLAVE](https://github.com/sash3939/Replication1/assets/156709540/8e64d4ae-adf7-4fec-a41b-3ca3691f6770)
 
 
@@ -79,6 +77,15 @@
 [my.cnf master2](https://github.com/sash3939/Replication1/assets/156709540/a757d746-3fb7-4d2f-a534-3eb2fc12cc13)
 
 [SELECT from tables](https://github.com/sash3939/Replication1/assets/156709540/e1355333-c562-41c6-97c5-d099e7270433)
+
+[MASTER1 STATUS](https://github.com/sash3939/Replication1/assets/156709540/1ca8774b-e149-4062-becb-1ea16aa65641)
+[MASTER2 STATUS](https://github.com/sash3939/Replication1/assets/156709540/2d79e59c-ec22-4c7b-967d-9e864797c590)
+
+[SHOW DATABASES master2](https://github.com/sash3939/Replication1/assets/156709540/3f59f06e-66dd-4fae-8f3a-4d0fb78849d8)
+
+[SELECT master2 after added columns](https://github.com/sash3939/Replication1/assets/156709540/20b54719-31bd-40a7-84b5-18906d538ba3)
+[SELECT master1 after added on master2](https://github.com/sash3939/Replication1/assets/156709540/37eb59b4-a53b-4d3d-9d27-45088b3508a6)
+
 
 
 
