@@ -42,11 +42,15 @@
 [_my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/399dd5db-0405-4aaf-be0a-f16112d4136a)
 [my.cnf master](https://github.com/sash3939/Replication1/assets/156709540/b4af030d-34f0-41d1-b553-fa2cd642da2a)
 
-
 [docker ps](https://github.com/sash3939/Replication1/assets/156709540/a7a5d27d-12a8-4539-9849-9ecbf99166bd)
 
 [created bd on master](https://github.com/sash3939/Replication1/assets/156709540/2b6edd66-0864-4887-9f83-4d83f1d0debf)
 
+[SELECT from tables](https://github.com/sash3939/Replication1/assets/156709540/cc652eb5-fecb-41d6-b70c-daef57a9817c)
+
+[MASTER STATUS](https://github.com/sash3939/Replication1/assets/156709540/c6f2ae2f-d5d1-4db2-a2e5-e9fbc27c45c0)
+
+[MASTER STATUS on Slave](https://github.com/sash3939/Replication1/assets/156709540/c9601111-3433-4738-8624-6ca960c0e0b2)
 
 ---
 
